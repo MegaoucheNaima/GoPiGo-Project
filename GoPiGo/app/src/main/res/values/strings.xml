@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoPiGo</string>
+    <string name="quitter">quitter</string>
+    <string name="propos">à propos</string>
+    <string name="connexion">Connexion</string>
+    <string name="connexion_gopigo">Connexion à GoPiGo</string>
+    <string name="dstaddress">dstAddress</string>
+    <string name="dstport">dstPort</string>
+    <string name="connect">Connect...</string>
+    <string name="clear">Clear</string>
+    <string name="stop">*stop*</string>
+    <string name="droite">Droite</string>
+    <string name="avancer">avancer</string>
+    <string name="gauche">gauche</string>
+    <string name="reculer">reculer</string>
+    <string name="start">start</string>
+    <string name="donn_e">Donnée</string>
+    <string name="graphe">Graphe</string>
+    <string name="accueil">accueil</string>
+    <string name="hello_world">hello_world</string>
+</resources>
